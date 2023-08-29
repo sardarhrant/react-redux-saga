@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung 55",
+      "color": "black",
+      "price": 15000,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/ie/2202/gallery/ie-galaxy-a53-5g-a536-sm-a536blbneub-531493166?$650_519_PNG$"
+    },
+    {
+      "id": 2,
+      "name": "Samsung 15",
+      "color": "black",
+      "price": 10000,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/ie/2202/gallery/ie-galaxy-a53-5g-a536-sm-a536blbneub-531493166?$650_519_PNG$"
+    },
+    {
+      "id": 3,
+      "name": "Samsung 578",
+      "color": "black",
+      "price": 15500,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/ie/2202/gallery/ie-galaxy-a53-5g-a536-sm-a536blbneub-531493166?$650_519_PNG$"
+    },
+    {
+      "id": 4,
+      "name": "Samsung S22",
+      "color": "black",
+      "price": 88000,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/ie/2202/gallery/ie-galaxy-a53-5g-a536-sm-a536blbneub-531493166?$650_519_PNG$"
+    },
+    {
+      "id": 5,
+      "name": "Samsung S8",
+      "color": "black",
+      "price": 95000,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/ie/2202/gallery/ie-galaxy-a53-5g-a536-sm-a536blbneub-531493166?$650_519_PNG$"
+    }
+  ]
+}
